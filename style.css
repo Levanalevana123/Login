@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(33, 99, 99);
+}
+#email {
+    background-color: white;
+    border-color: darkblue;
+}
+#password {
+    background-color: white;
+    border-color: darkblue;
+}
+#btn {
+    border-color: rgb(13, 199, 112);
+    color:black;
+}
+#btm {
+    border-color: darkred;
+}
